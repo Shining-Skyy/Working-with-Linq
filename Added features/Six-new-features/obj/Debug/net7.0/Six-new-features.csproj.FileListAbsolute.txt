@@ -1,0 +1,15 @@
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\bin\Debug\net7.0\Six-new-features.exe
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\bin\Debug\net7.0\Six-new-features.deps.json
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\bin\Debug\net7.0\Six-new-features.runtimeconfig.json
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\bin\Debug\net7.0\Six-new-features.dll
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\bin\Debug\net7.0\Six-new-features.pdb
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\obj\Debug\net7.0\Six-new-features.csproj.AssemblyReference.cache
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\obj\Debug\net7.0\Six-new-features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\obj\Debug\net7.0\Six-new-features.AssemblyInfoInputs.cache
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\obj\Debug\net7.0\Six-new-features.AssemblyInfo.cs
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\obj\Debug\net7.0\Six-new-features.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\obj\Debug\net7.0\Six-new-features.dll
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\obj\Debug\net7.0\refint\Six-new-features.dll
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\obj\Debug\net7.0\Six-new-features.pdb
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\obj\Debug\net7.0\Six-new-features.genruntimeconfig.cache
+C:\Users\Ebrahim\Desktop\Linq\Added features\Six-new-features\obj\Debug\net7.0\ref\Six-new-features.dll
