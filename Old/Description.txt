@@ -1,5 +1,8 @@
-کوئری های قدیمی لینک برای قبل از دات نت 6 که کاربری هستند
+کوئری های قدیمی لینک برای قبل از دات نت 6 که کاربردی هستند
+Old link queries for before .NET 6 that are useful
+
 کوئری ها به 14 دسته مختلف تقسیم میشوند:
+Queries are divided into 14 different categories:
 
 1.Filtering
 2.Sorting
